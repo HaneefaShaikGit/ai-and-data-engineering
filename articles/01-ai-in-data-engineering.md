@@ -1,12 +1,12 @@
 # AI in Data Engineering: Assistant, Not Autopilot
 
-AI is becoming part of the data engineering workflow.
+I've been thinking a lot about where AI actually fits into data engineering.
 
-It can generate SQL, explain errors, draft documentation, suggest tests, summarize logs, and help engineers move faster.
+When people talk about AI and software jobs, the discussion quickly turns into whether AI will replace engineers. From what I've seen while working with data pipelines and while using AI myself, I think that's the wrong question.
 
-But that does **not** mean the data engineer disappears.
+AI can definitely make a data engineer faster. I use it to understand unfamiliar code, think through SQL, document ideas and sometimes get a second opinion when debugging. But there is a big difference between generating code and knowing whether that code is correct for the business.
 
-My view is that AI changes the job more than it removes the job.
+A model can write a JOIN in seconds. It doesn't automatically know whether that JOIN breaks the grain of a fact table.
 
 ## What AI is good at
 
