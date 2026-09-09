@@ -109,6 +109,9 @@ They will be the engineers who can:
 5. validate the result
 6. take responsibility for production behavior
 
+That got me curious about another use case: instead of asking AI to generate pipelines, could we use ML to help observe them?
+So I built a tiny experiment.
+
 ## Key Takeaway
 
 > AI is most useful when it acts as an engineering assistant, not an engineering authority.
