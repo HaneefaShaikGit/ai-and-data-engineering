@@ -4,9 +4,10 @@ A practical repository exploring how AI can help data engineers without replacin
 
 > Use AI to reduce repetitive work, surface patterns faster, and improve observability — while keeping humans responsible for business logic, architecture, and production decisions.
 
-## Contents
-- [AI in Data Engineering: Assistant, Not Autopilot](articles/01-ai-in-data-engineering.md)
-- [Pipeline Run Anomaly Detection](examples/pipeline-anomaly-detection/)
+### Learning Articles
+
+1. [AI in Data Engineering](articles/01-ai-in-data-engineering.md)
+2. [RAG Fundamentals](articles/02-rag-fundamentals.md)
 
 ## Planned Topics
 - AI-assisted data quality
